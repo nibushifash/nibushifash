@@ -1,0 +1,9 @@
+.sass-cache
+.bundle
+.jekyll-metadata
+_amazon.yml
+_site
+node_modules
+vendor
+*.bak
+OLD
